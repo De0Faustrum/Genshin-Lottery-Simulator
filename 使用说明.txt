@@ -1,1 +1,0 @@
-文件中含有图片，略大，故分卷压缩，解压时，打开GenshinLotterySimulator_zip.zip文件，选择解压——>从当前文件中处理所有压缩分卷中的全部文件，得到GenshinLotterySimulator.zip文件，再次解压即可
