@@ -1,0 +1,6 @@
+1.下载并根据提示安装EasyX图形库。
+2.在Visual Studio中新建项目并命名为GenshinLotterySimulator，并确保项目名称和项目路径中不含中文和空格。
+3.在解决方案中右击项目名称，选择查看项目属性，在配置属性中选择高级->将字符集设置使用Unicode字符集改为使用多字节字符集（否则编译时可能会报错）。
+4.将Genshin.h、Main.cpp、Function.cpp以及解压后的jpg图片文件复制到sln文件相同目录下，并在Visual Studio项目管理中将源码和图片拷贝至项目文件。
+5.将图片包解压后将jpg文件复制到sln目录下，并在Visual Studio项目管理中加入项目文件。
+6.Ctrl+F5运行即可。
